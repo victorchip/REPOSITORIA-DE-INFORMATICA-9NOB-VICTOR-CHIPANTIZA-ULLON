@@ -1,6 +1,6 @@
 # REPOSITORIA-DE-INFORMATICA-9NOB-VICTOR-CHIPANTIZA-ULLON
 CARPETA DE REPOSITORIO DE INFORMATICA 9NOB
-                                                                                               ORDENAR VECTORES
+                                                                                               ORDENAR VECTOREs
 Proceso VECTOR
 	Dimensionar vector(11);
 	Definir vector Como Real;
